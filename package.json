@@ -18,7 +18,7 @@
     "timeout": "2m"
   },
   "bin": {
-    "semantic-release": "bin/semantic-release.js"
+    "monorepo-semantic-release": "bin/monorepo-semantic-release.js"
   },
   "bugs": {
     "url": "https://github.com/w4rlock/semantic-release/issues"
